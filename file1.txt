@@ -1,1 +1,2 @@
 Some initial text in the file..
+next line..
